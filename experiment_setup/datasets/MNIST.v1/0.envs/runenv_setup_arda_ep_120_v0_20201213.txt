@@ -1,0 +1,10 @@
+-model_checkpoint_freq -1
+-data_checkpoint_freq 3
+-save_final_model 1
+
+-epochs 120
+
+-out_dir /media/data2/dm00314/MNIST.v1
+-data_root /media/data2/dm00314/DATA
+
+-fix_seeds 0

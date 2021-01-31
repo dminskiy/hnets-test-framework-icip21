@@ -1,0 +1,5 @@
+-enable_scat 1
+-scat_type mallat
+-scat_order 1
+-J 3
+-batch_sz 100

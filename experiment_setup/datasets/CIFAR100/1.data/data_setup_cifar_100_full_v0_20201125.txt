@@ -1,0 +1,11 @@
+-dataset cifar_100
+-augment_data 1
+-batch_sz 256
+
+-partion_tr_data 1
+
+-num_workers 5
+
+-set_datasize -1
+
+-out_folder full_data

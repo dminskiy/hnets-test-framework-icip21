@@ -1,0 +1,11 @@
+-dataset flowers
+-augment_data 1
+-batch_sz 85
+
+-partion_tr_data 0.5
+
+-num_workers 5
+
+-set_datasize 122
+
+-out_folder FLOWERS/122/50%_data

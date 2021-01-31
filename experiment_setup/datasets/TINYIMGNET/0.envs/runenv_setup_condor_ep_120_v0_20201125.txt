@@ -1,0 +1,10 @@
+-model_checkpoint_freq -1
+-data_checkpoint_freq 3
+-save_final_model 1
+
+-epochs 120
+
+-runon condor
+-out_dir /vol/research/NOBACKUP/CVSSP/scratch_4weeks/dm00314/TINYIMGNET
+
+-fix_seeds 0

@@ -1,0 +1,12 @@
+-classifier wrn_50_2
+-optim sgd
+
+-lr 0.1
+
+-wrn_dropout 0
+
+-use_scheduler 1
+-scheduler_type stepLR
+-scheduler_step 45
+
+-explicit_cpu 0

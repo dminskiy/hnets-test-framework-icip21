@@ -1,0 +1,1 @@
+-out_dir /home/dmitryminskiy/PycharmProjects/hybrids-test-framework/experiment_results/experiment_setup/datasets/MNIST/output/full_data

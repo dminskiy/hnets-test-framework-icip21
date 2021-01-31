@@ -1,0 +1,5 @@
+-enable_scat 1
+-scat_type dtwct_l
+-scat_order 2
+-J 1
+-enable_scat_conv 0

@@ -1,0 +1,6 @@
+-enable_scat 1
+-scat_type dtcwt_l
+-scat_order 1
+-J 1
+-half_scat_feat_resolution 1
+-batch_sz 25

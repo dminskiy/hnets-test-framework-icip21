@@ -1,0 +1,11 @@
+-dataset tinyimagenet
+-augment_data 1
+-batch_sz 256
+
+-partion_tr_data 0.25
+
+-num_workers 5
+
+-set_datasize 32
+
+-out_folder 32x32/25%_data

@@ -1,0 +1,13 @@
+-classifier wrnscat_12_8
+-optim sgd
+
+-epochs 3
+-lr 0.1
+
+-wrn_dropout 1
+
+-use_scheduler 1
+-scheduler_type stepLR
+-scheduler_step 1
+
+-explicit_cpu 0

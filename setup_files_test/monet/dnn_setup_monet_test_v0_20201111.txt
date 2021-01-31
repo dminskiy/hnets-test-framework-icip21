@@ -1,0 +1,10 @@
+-classifier wrn_16_8
+-optim sgd
+
+-lr 0.1
+
+-wrn_dropout 1
+
+-use_scheduler 0
+-scheduler_type stepLR
+-scheduler_step 25

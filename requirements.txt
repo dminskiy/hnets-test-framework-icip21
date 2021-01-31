@@ -1,0 +1,12 @@
+torchvision
+appdirs
+scipy
+pywavelets
+sklearn
+matplotlib
+pandas
+python-docx
+seaborn
+wget
+openpyxl
+docx2pdf

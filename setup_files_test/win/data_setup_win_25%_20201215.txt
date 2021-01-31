@@ -1,0 +1,11 @@
+-dataset flowers
+-augment_data 1
+-batch_sz 1
+
+-partion_tr_data 1
+
+-num_workers 5
+
+-set_datasize 122
+
+-out_folder test

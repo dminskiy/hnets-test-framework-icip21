@@ -1,0 +1,10 @@
+-model_checkpoint_freq -1
+-data_checkpoint_freq 3
+-save_final_model 1
+
+-epochs 200
+
+-runon monet
+-out_dir /mnt/hdd1/DM/Scattering-Networks-Testing-Outputs
+
+-fix_seeds 0

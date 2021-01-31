@@ -1,0 +1,11 @@
+-dataset mnist
+-augment_data 1
+-batch_sz 256
+
+-partion_tr_data 0.5
+
+-num_workers 5
+
+-set_datasize -1
+
+-out_dir /home/dmitryminskiy/PycharmProjects/hybrids-test-framework/experiment_results/experiment_setup/datasets/MNIST/output/50%_data
