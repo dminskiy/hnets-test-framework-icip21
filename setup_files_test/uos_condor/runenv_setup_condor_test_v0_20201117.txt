@@ -1,6 +1,0 @@
--model_checkpoint_freq 2
--data_checkpoint_freq 1
--save_final_model 1
-
--runon condor
--fix_seeds 0

@@ -1,9 +1,0 @@
--dataset tinyimagenet
--augment_data 1
--batch_sz 50
-
--partion_tr_data 0.05
-
--num_workers 5
-
--set_datasize -1

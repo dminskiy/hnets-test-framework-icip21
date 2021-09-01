@@ -1,1 +1,0 @@
--out_dir /user/HS221/dm00314/PycharmProjects/hybrid-nets-test-framework/experiment_results/MNIST
