@@ -1,4 +1,0 @@
--enable_scat 1
--scat_type dtcwt
--scat_order 1
--J 1

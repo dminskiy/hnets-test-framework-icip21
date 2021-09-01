@@ -1,4 +1,0 @@
--enable_scat 1
--scat_type mallat_l
--scat_order 2
--J 2
