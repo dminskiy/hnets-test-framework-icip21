@@ -1,7 +1,0 @@
--data_checkpoint_freq 5
--save_final_model 1
-
--epochs 120
-
--runon condor
--fix_seeds 0

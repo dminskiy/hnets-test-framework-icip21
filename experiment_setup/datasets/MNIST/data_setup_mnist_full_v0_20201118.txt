@@ -1,9 +1,0 @@
--dataset mnist
--augment_data 1
--batch_sz 256
-
--partion_tr_data 1
-
--num_workers 5
-
--set_datasize -1
